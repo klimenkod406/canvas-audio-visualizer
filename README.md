@@ -25,8 +25,8 @@ TypeScript. Zero runtime dependencies.
                           envelope    canvas 2D
 ```
 
-Open-source reference implementation extracted from my commercial work on a
-music streaming platform (proprietary business logic removed).
+Open-source reference implementation extracted from my own open-source project
+MIYU — a music streaming platform with an AI service (MIT).
 
 > **Note on rendering.** This is Canvas 2D, not WebGL. The original project
 > planned a shader-based visualiser that was never built; what shipped was a
