@@ -1,5 +1,8 @@
 # canvas-audio-visualizer
 
+[![CI](https://github.com/klimenkod406/canvas-audio-visualizer/actions/workflows/ci.yml/badge.svg)](https://github.com/klimenkod406/canvas-audio-visualizer/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 The algorithmic core of a **Canvas 2D audio visualiser**, separated from any
 framework or application: FFT band splitting, bass-spike beat detection with
 tempo tracking, genre palettes and ring geometry.
